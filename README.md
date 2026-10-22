@@ -64,9 +64,11 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushsuvarna-dev&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
-
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushsuvarna-dev&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub contribution activity graph"
+  />
 </div>
 
 ## 🐍 Contribution Snake
