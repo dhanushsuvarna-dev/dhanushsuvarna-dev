@@ -46,9 +46,10 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/dhanushsuvarna-dev">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+  <a href="mailto:suvarnadhanush6@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+
   <a href="https://leetcode.com/u/Dhanush_B_C/">
     <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/>
   </a>
