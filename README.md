@@ -25,17 +25,6 @@
 
 </div>
 
-## 🚀 About Me
-
-- 🎓 Computer Science Engineering student focused on software development.
-- 💡 Practicing Data Structures and Algorithms using Java.
-- 🧩 Solving coding challenges and improving algorithmic thinking.
-- 🐍 Exploring Python, NumPy, Pandas, and data analysis.
-- 🌐 Learning graph theory and fundamental algorithms.
-- 🎯 Preparing for software development internships and placements.
-
-> *Consistency beats intensity when you keep showing up.*
-
 ## 🧰 Tech Stack
 
 <p align="center">
@@ -49,18 +38,6 @@
   <img src="https://img.shields.io/badge/Problem_Solving-BB9AF7?style=flat-square" alt="Problem solving"/>
 </p>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dhanushsuvarna-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushsuvarna-dev&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Most-used programming languages"/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=dhanushsuvarna-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -68,45 +45,6 @@
 <img src="https://raw.githubusercontent.com/dhanushsuvarna-dev/dhanushsuvarna-dev/output/github-contribution-grid-snake-dark.svg" alt="Animated snake eating GitHub contributions" width="100%"/>
 
 </div>
-
-## 📂 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/dhanushsuvarna-dev/LeetCodeSolutions">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dhanushsuvarna-dev&repo=LeetCodeSolutions&theme=tokyonight&hide_border=true" alt="LeetCode solutions repository"/>
-</a>
-<a href="https://github.com/dhanushsuvarna-dev/TechnicalPrac">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dhanushsuvarna-dev&repo=TechnicalPrac&theme=tokyonight&hide_border=true" alt="Technical practice repository"/>
-</a>
-<a href="https://github.com/dhanushsuvarna-dev/PandasBasics">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dhanushsuvarna-dev&repo=PandasBasics&theme=tokyonight&hide_border=true" alt="Pandas basics repository"/>
-</a>
-<a href="https://github.com/dhanushsuvarna-dev/Graph-Theory">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dhanushsuvarna-dev&repo=Graph-Theory&theme=tokyonight&hide_border=true" alt="Graph theory repository"/>
-</a>
-
-</div>
-
-## 🧠 Current Focus
-
-```text
-Java & DSA          ████████░░  Improving
-Problem Solving     ████████░░  Practicing
-Python & Pandas     ██████░░░░  Learning
-Graph Algorithms    ██████░░░░  Exploring
-Project Development █████░░░░░  Building
-```
-
-*These bars are illustrative progress indicators, not measured skill scores.*
-
-## 🎯 Goals
-
-- [ ] Strengthen DSA and advanced problem-solving skills.
-- [ ] Practice more medium- and hard-level coding problems.
-- [ ] Build practical projects using Python and databases.
-- [ ] Explore data analysis and visualization.
-- [ ] Prepare for internships and software engineering placements.
 
 ## 🤝 Let's Connect
 
