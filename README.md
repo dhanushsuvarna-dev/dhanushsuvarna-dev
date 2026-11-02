@@ -13,9 +13,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=650&lines=Solving+problems+one+algorithm+at+a+time;Building+strong+DSA+fundamentals;Exploring+Python+%26+Data+Analysis;Learning.+Building.+Improving." alt="Typing animation" />
 
 <p>
-  <a href="https://github.com/dhanushsuvarna-dev">
-    <img src="https://img.shields.io/badge/GitHub-dhanushsuvarna--dev-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
   <a href="https://leetcode.com/u/Dhanush_B_C/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
@@ -28,7 +25,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,git,github,vscode&theme=dark" alt="Technology icons"/>
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,c,git,github,vscode&theme=dark" alt="Technology icons"/>
 </p>
 
 <p align="center">
